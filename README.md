@@ -1,3 +1,4 @@
+Dynamic Web App.png
 # Host an HTML Website on an EC2 Instance Using GitHub Repository
 
 This project demonstrates how to host an HTML website on an EC2 instance by downloading web files from a public GitHub repository. The setup involves configuring an EC2 instance in the default VPC, installing necessary software, and using a Bash script added to the EC2 user data at launch to automate the deployment process.
